@@ -4,7 +4,7 @@ version: 5.4.2-0
 revision: 3
 kind: ova
 image:
-  url: https://updates-jdjdljaadjdjadaieranadiaei-streaming.s3.amazonaws.com/release3.1-upgrade/RiskForesight_caveonix_com-Release3_1.ova
+  url: https://bitnami.s3.us-east.cloud-object-storage.appdomain.cloud/bitnami-wordpress-5.4.2-0-linux-centos-7-x86_64.ova
 eula_url: https://www.apache.org/licenses/LICENSE-2.0.txt
 eula_label: Product 2.0
 categories:
